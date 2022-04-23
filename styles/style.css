@@ -396,3 +396,4 @@
   text-transform: none;
   text-decoration: none;
 }
+Вроде разобрался наконец: где в брифе написано например блок footer, элемент columns мы создаем просто тег с классом footer__columns, но где уже с модификатором, например Блок footer, Элемент column, Модификатор copyright (БЭМ) там мы уже задваиваем название в классе: footer__column footer__column_content_copyright. 
