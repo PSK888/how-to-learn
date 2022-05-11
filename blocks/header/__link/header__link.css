@@ -2,9 +2,10 @@
   color: #2f80ed;
   text-transform: none;
   text-decoration: none;
+  transition: 0.2s;
 }
 
 .header__link:hover {
   opacity: 0.5;
-  transition: 0.5s;
+
 }
