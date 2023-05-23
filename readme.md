@@ -11,7 +11,7 @@
 
 ------
 
-![][(https://github.com/PSK888/how-to-learn/images/screen.jpg)
+![](https://github.com/PSK888/how-to-learn/images/screen.jpg)
 
 [Ссылка на проект (GitHub Pages)](https://psk888.github.io/how-to-learn/)
 
